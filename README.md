@@ -5,8 +5,8 @@ This project is a simple machine learning model that predicts whether a person i
 ##  Project Structure
 diabetes-prediction/
 ├── diabetes-prediction.pkl # Trained model
-├── notebook.ipynb # Jupyter Notebook with all code
-├── requirements.txt # Python libraries used
+├── diabetes-prediction-app.ipynb # Jupyter Notebook with all code
+├── requirements.txt # Python libraries 
 ├── README.md # This file
 
 ##  Dataset
@@ -31,4 +31,8 @@ We trained a **Logistic Regression model ,RandomForest,KNN** using `scikit-learn
    ```bash
    git clone https://github.com/Essouri-Rayhane/diabetes-prediction-app.git
    cd diabetes-prediction-app
+
+##  Author
+Project created by [Essouri  Rayhane]
+For learning and educational purposes.
 
